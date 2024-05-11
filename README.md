@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chinmay Kulkarni</h1>
 <h3 align="center">A passionate back-end developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/origin/53/53abb14d1032bcac1612f66c9f4214c8_w200.gif](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)”>
 
 - 🌱 I’m currently learning **Nextjs**
 
