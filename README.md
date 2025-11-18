@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Chinmay Kulkarni</h1>
-<h3 align="center">A passionate back-end developer</h3>
+<h3 align="center">A passionate java back-end developer</h3>
 
-- 🌱 I’m currently learning **Nextjs, Blockchain**
+- 🌱 I’m currently learning **React, AI**
 
 - 💬 Ask me about **Java, Spring Boot, Data Structures & Algorithms**
 
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/chinmay-kulkarnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay-kulkarnii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chinmaykulkarnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaykulkarnii" height="30" width="40" /></a>
-<a href="https://instagram.com/_chinmaykulkarnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chinmaykulkarnii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
